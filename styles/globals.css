@@ -6,21 +6,73 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+html {
+  color-scheme: dark;
+}
+
+body {
+  color: white;
+  background: black;
+}
+
 a {
   color: inherit;
   text-decoration: none;
+}
+
+p {
+  padding: 0 300px;
+  text-align: center;
+  font-size: 18px;
 }
 
 * {
   box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+.doar {
+  margin-top: 50px;
+  background-color: #ccc;
+  padding: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.doar span {
+  color: #222;
+  font-size: 18px;
+}
+
+.doar a {
+  padding: 30px;
+  background: rgba(34, 34, 34, 0.9);
+  color: #ccc;
+  transition: 200ms;
+}
+
+.doar a:hover {
+  background-color: rgba(34, 34, 34, 1);
+}
+
+.saberMais {
+  padding-top: 80px;
+  width: 50%;
+  text-align: center;
+}
+
+.saberMais a {
+  font-size: 32px;
+  color: #c00;
+  font-weight: bold;
+  transition: 200ms;
+}
+
+.saberMais a:hover {
+  text-decoration: underline;
+}
+
+.red {
+  color: #c00;
 }
