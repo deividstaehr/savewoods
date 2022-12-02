@@ -18,7 +18,7 @@ export default function Home() {
 
         <div>
           <br />
-          <Image src="/woods1.png" width={600} height={600} />
+          <Image src="/woods1.png" width={600} height={600} alt="woods" />
         </div>
 
         <h2 className='red'>💀💀💀 O QUE É A LEUCEMIA? 💀💀💀</h2>
@@ -31,12 +31,12 @@ export default function Home() {
           <span>
             100% de esforço enquanto houver 1% de chance<br />Doe agora e faça a diferença na vida do Woods e seus familiares
           </span>
-          <a href="https://livepix.gg/woodszin" target="_blank">DOAR AGORA</a>
+          <a href="https://livepix.gg/woodszin" rel="noreferrer" target="_blank">DOAR AGORA</a>
         </div>
 
         <div className='saberMais'>
           <h2>Caso queira saber mais para comprovar minha história, me chamo Woods, tenho alguns problemas como microcefalia, anorexia, gigantismo, TDHA e outros 👉👌😎, estou on todos os dias no site:</h2>
-          <a href="https://www.twitch.tv/woodszin" target="_blank">https://www.twitch.tv/woodszin</a>
+          <a href="https://www.twitch.tv/woodszin" rel="noreferrer" target="_blank">https://www.twitch.tv/woodszin</a>
         </div>
       </main>
 
