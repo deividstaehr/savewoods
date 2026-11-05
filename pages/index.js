@@ -31,12 +31,12 @@ export default function Home() {
           <span>
             100% de esforço enquanto houver 1% de chance<br />Doe agora e faça a diferença na vida do Woods e seus familiares
           </span>
-          <a href="https://livepix.gg/woodszin" rel="noreferrer" target="_blank">DOAR AGORA</a>
+          <a href="https://midfielder.tv.br/Woods" rel="noreferrer" target="_blank">DOAR AGORA</a>
         </div>
 
         <div className='saberMais'>
           <h2>Caso queira saber mais para comprovar minha história, me chamo Woods, tenho alguns problemas como microcefalia, anorexia, gigantismo, TDHA e outros 👉👌😎, estou on todos os dias no site:</h2>
-          <a href="https://www.twitch.tv/woodszin" rel="noreferrer" target="_blank">https://www.twitch.tv/woodszin</a>
+          <a href="https://www.twitch.tv/woodszin7" rel="noreferrer" target="_blank">https://www.twitch.tv/woodszin7</a>
         </div>
       </main>
 
